@@ -1,6 +1,6 @@
 # Hauptfunktionen
 
-Das Projekt **XYZ** bietet folgende Funktionen:
+Das Projekt bietet folgende Funktionen:
 
 - **Benutzerverwaltung:**
   - Registrierung und Anmeldung von Benutzern mit sicherer Authentifizierung.
@@ -21,5 +21,3 @@ Das Projekt **XYZ** bietet folgende Funktionen:
 - **Responsive Design:**
   - Optimierte Darstellung für verschiedene Bildschirmgrößen.
   - Unterstützung für dunklen und hellen Modus.
-
-Weitere Features werden kontinuierlich hinzugefügt.
